@@ -11,10 +11,10 @@ You may also view the contents directly on Google Colab:
 * [STFV - Proposed Solution, Results.ipynb](https://colab.research.google.com/drive/14KTj1bKBH5ughdn6RjZzYDRIAxrDSZz-?usp=sharing)
 * [STFV - Results Validation.ipynb](https://colab.research.google.com/drive/1dd1CuzIt6PFGWblrz7yVGRfYzwvpDKPf?usp=sharing)
 
-### macaulay2-package
+### macaulay2
 This directory contains version 0.1 of AdditiveProjectiveToricVarieties, a new Macaulay2 package with methods for working with additive actions on projective toric varieties.
 
-To install the package, simply open a terminal in ``macaulay2-package`` and run:
+To install the package, simply open a terminal in ``macaulay2`` and run:
 ```bash
 M2
 installPackage("AdditiveProjectiveToricVarieties")
