@@ -1,6 +1,6 @@
 # Smooth Fano Toric Varieties
 
-This is the companion Github repository to my undergraduate thesis in Informatics Civil Engineering at Federico Santa María Technical University, Valparaíso, Chile, titled "A computational approach to classification of additive smooth Fano polytopes".
+This is the companion Github repository to my thesis in Informatics Civil Engineering at Federico Santa María Technical University, Valparaíso, Chile, titled "A computational approach to classification of additive smooth Fano polytopes".
 
 ## Contents
 ### google-colab
@@ -34,7 +34,10 @@ check AdditiveProjectiveToricVarieties
 ```
 
 ### v-encuentro-teoria-de-numeros
-This folder contains a beamer and abstract from a talk at [V-Encuentro Teoría de Números](http://ima.ucv.cl/congreso/v-encuentro/).
+This folder contains a beamer and abstract from a talk at [V-Encuentro Teoría de Números](http://ima.ucv.cl/congreso/v-encuentro/). These may be read as a short introduction to the topic.
 
 ### classifier, data.npy
 These files contain pre-processed and processed data from the [GRDB](http://www.grdb.co.uk/forms/toricsmooth) and M Obro, "An algorithm for the classification of smooth Fano polytopes", arXiv:0704.0049 (2007).
+
+### thesis-defense.pdf
+Beamer used at the thesis defense. This may be read as a longer introduction to the topic.
